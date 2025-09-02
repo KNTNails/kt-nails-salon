@@ -1,0 +1,144 @@
+{
+  "salonName": "K & T Nails Salon",
+  "location": "Cypress",
+  "header": {
+    "logo": {
+      "imageUrl": "https://i.ibb.co/p3wL0z6/KT-New-Logo.jpg",
+      "alt": "K&T Nails Salon Logo"
+    },
+    "navLinks": [
+      { "text": "Home", "href": "#home" },
+      { "text": "Services", "href": "#services" },
+      { "text": "Gallery", "href": "#gallery" },
+      { "text": "Contact", "href": "#contact" }
+    ],
+    "ctaButton": {
+      "text": "Call Now",
+      "href": "tel:714-820-6172"
+    }
+  },
+  "hero": {
+    "headline": "Your Nails, Our Passion, Always Unforgettable",
+    "subheadline": "Relax and leave with flawless nails from your K&T Nails and Spa nail technician.",
+    "ctaButton": {
+      "text": "View Our Services",
+      "href": "#services"
+    }
+  },
+  "features": [
+    { "icon": "gem", "title": "Expert Technicians", "description": "Our artists are trained in the latest techniques to deliver flawless results." },
+    { "icon": "sparkles", "title": "Premium Products", "description": "We use high-quality, long-lasting polishes and gels from top brands." },
+    { "icon": "shield-check", "title": "Clean & Safe", "description": "Your safety is our top priority with hospital-grade sanitized tools and practices." }
+  ],
+  "yelp": {
+    "title": "Community Trusted & Loved",
+    "rating": "4.5",
+    "reviewCount": "150+",
+    "source": "Yelp Reviews",
+    "snippet": "Our go-to spot in Cypress! Always clean, professional, and my Gel-X nails last forever. Highly recommend!",
+    "author": "A Yelp Reviewer"
+  },
+  "gallery": {
+    "title": "Our Work",
+    "description": "A collection of our latest and most popular designs.",
+    "images": [
+      { "src": "https://i.ibb.co/L8y8Y0q/IMG-5085.jpg", "alt": "Red glitter holiday nails with snowman and Santa design" },
+      { "src": "https://i.ibb.co/mH1m5X3/IMG-5572.jpg", "alt": "Elegant nude nails with fine line art and gem accents" },
+      { "src": "https://i.ibb.co/Yh7M6cW/IMG-5673.jpg", "alt": "Modern white nails with black heart and star doodles" },
+      { "src": "https://i.ibb.co/N1Zp2Xp/IMG-5749.jpg", "alt": "French manicure with sparkling red glitter heart-shaped tips" },
+      { "src": "https://i.ibb.co/hX4q2C8/IMG-5795.jpg", "alt": "Funky pink nails with hot pink flame designs" },
+      { "src": "https://i.ibb.co/Qmg5zYF/IMG-7866-Copy.jpg", "alt": "Vibrant long red nails with small white heart patterns" }
+    ]
+  },
+  "services": {
+    "title": "Our Services",
+    "categories": [
+      {
+        "name": "Manicure Spa Packages",
+        "items": [
+          { "name": "Refresh Package", "price": "20", "description": "Nail trimming, shaping, cuticle care, 2-min massage, warm towel & polish. (With Gel: $35)" },
+          { "name": "Replenishment Package", "price": "23", "description": "Includes Refresh Package plus hot oil/lotion & 5-min massage. (With Gel: $38)" },
+          { "name": "Relax Package", "price": "30", "description": "Includes Replenishment Package plus exfoliating scrub & 7-min massage. (With Gel: $45)" },
+          { "name": "Rejuvenate Package", "price": "42", "description": "Includes Relax Package plus detoxifying clay mud mask & 12-min massage. (With Gel: $57)" }
+        ]
+      },
+      {
+        "name": "Pedicure Spa Packages",
+        "items": [
+          { "name": "Refresh Package", "price": "28", "description": "Green tea mint aromatherapy, nail care, 2-min massage, hot stone, warm towel & polish. (With Gel: $41)" },
+          { "name": "Replenishment Package", "price": "33", "description": "Includes Refresh Package plus hot oil/lotion & 5-min massage. (With Gel: $46)" },
+          { "name": "Relax Package", "price": "42", "description": "Includes Replenishment Package plus exfoliating scrub, hot oil/lotion, 7-min massage, hot stone & warm towel. (With Gel: $57)" },
+          { "name": "Rejuvenate Package", "price": "52", "description": "Includes Relax Package plus detoxifying clay mud mask or paraffin & 12-min massage. (With Gel: $67)" }
+        ]
+      },
+      {
+        "name": "Nail Enhancement",
+        "items": [
+          { "name": "Acrylic Overlay", "price": "40+", "description": "A durable layer of acrylic applied over the natural nail for strength." },
+          { "name": "Dipping Powder Overlay", "price": "45+", "description": "A strong and lightweight overlay with a wide range of colors." },
+          { "name": "Builder Gel Overlay", "price": "45+", "description": "A flexible and natural-feeling gel overlay to enhance nail strength." },
+          { "name": "Acrylic Full Set", "price": "45+", "description": "Classic extensions for adding length and shape to your nails." },
+          { "name": "Dipping Powder Full Set", "price": "50+", "description": "Create beautiful and durable nail extensions with dipping powder." },
+          { "name": "Builder Gel Full Set", "price": "50+", "description": "Sculpt strong and natural-looking extensions with builder gel." },
+          { "name": "Gel-X Full Set", "price": "55+", "description": "Fast, durable, and lightweight soft gel extensions." },
+          { "name": "Refill", "price": "40+", "description": "Maintain your nail enhancements by filling in the regrowth." }
+        ]
+      },
+      {
+        "name": "Additional Services",
+        "items": [
+          { "name": "Polish Change Manicure", "price": "10", "description": "" },
+          { "name": "Polish Change Pedicure", "price": "15", "description": "" },
+          { "name": "Callus Removal", "price": "8", "description": "" },
+          { "name": "Paraffin Treatment", "price": "10", "description": "" },
+          { "name": "Clay Mask", "price": "8", "description": "" },
+          { "name": "Cut Down", "price": "3+", "description": "" },
+          { "name": "Gel/Acrylic Removal", "price": "10 / 15", "description": "" }
+        ]
+      },
+      {
+        "name": "Waxing Services",
+        "items": [
+          { "name": "Eyebrows", "price": "15", "description": "" },
+          { "name": "Lip", "price": "10", "description": "" },
+          { "name": "Chin", "price": "12", "description": "" },
+          { "name": "Full Face", "price": "45+", "description": "" },
+          { "name": "Underarms", "price": "20", "description": "" },
+          { "name": "Half Legs", "price": "35+", "description": "" },
+          { "name": "Full Legs", "price": "60+", "description": "" }
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "reviews": [
+      { "quote": "K & T Nails is the best salon in Cypress! My nails have never looked better. The attention to detail is amazing, and the staff is so friendly.", "author": "Jessica L." },
+      { "quote": "Such a clean and professional environment. I always feel so relaxed and pampered when I come here. Highly recommend their deluxe pedicure!", "author": "Maria G." },
+      { "quote": "I'm always impressed with the artistry and creativity. I show them a picture, and they bring it to life perfectly every time.", "author": "Samantha P." }
+    ]
+  },
+  "booking": {
+    "title": "Book Your Appointment",
+    "description": "Please give us a call to schedule your visit. We look forward to hearing from you!"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "address": "5353 Katella Ave., A, Cypress CA 90720",
+    "phone": "714-820-6172",
+    "email": "kandtnailsandspa@gmail.com",
+    "hours": [
+      { "day": "Mon - Fri", "time": "9:00 AM - 7:00 PM" },
+      { "day": "Saturday", "time": "9:00 AM - 6:00 PM" },
+      { "day": "Sunday", "time": "Closed" }
+    ]
+  },
+  "footer": {
+    "socialLinks": [
+      { "platform": "Instagram", "url": "#" },
+      { "platform": "Facebook", "url": "#" },
+      { "platform": "Yelp", "url": "#" }
+    ],
+    "copyright": "© 2025 K & T Nails Salon. All Rights Reserved."
+  }
+}
