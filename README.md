@@ -1,1 +1,3 @@
-# kt-nails-salon
+# K & T Nails Salon
+
+Landing page for K & T Nails and Spa
